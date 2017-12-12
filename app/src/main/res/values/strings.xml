@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tinder</string>
+    <string name="dirIpWs">http://192.168.1.78:8080/MiCrushITM_WS/res/datos/</string>
+    <string name="title_activity_inbox">Inbox</string>
+    <string name="title_activity_principal">Rinder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Cerrar Sesion</string>
+    <string name="title_activity_registro_usr">Registro</string>
+    <string name="title_activity_gustos">Mi Gusto es..</string>
+</resources>

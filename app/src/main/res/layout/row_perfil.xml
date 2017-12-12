@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card-view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/cardRowPerf"
+        card-view:cardBackgroundColor="#D4856A"
+        android:layout_width="match_parent"
+        card-view:cardCornerRadius="10dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+    android:layout_gravity="center"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvRowPerf"
+            android:drawableStart="@mipmap/ic_launcher_round"
+            android:layout_gravity="center"
+            android:drawablePadding="5dp"
+            android:textAlignment="center"
+            android:text="Mensaje"
+            android:textColor="#fff"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+
+
+    </android.support.v7.widget.CardView>
+
